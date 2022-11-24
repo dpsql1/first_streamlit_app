@@ -1,0 +1,2 @@
+streamlit streamlit_app.py --server.enableCORS=false
+streamlit streamlit_app.py --server.enableWebsocketCompression=false
